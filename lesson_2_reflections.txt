@@ -1,1 +1,3 @@
 Git will just setup the repo but nothing will be in it yet.
+
+It gives you a chance to group your commits.
