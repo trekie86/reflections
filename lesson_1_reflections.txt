@@ -1,0 +1,11 @@
+It made finding the bug easier.
+
+It allows you to find things that used to work and then didn't. It just allows you to see the development of a file.
+
+The ones that combine files into a single commit are designed to handle logical changes, this that are interrelated. Google docs is a document application, it's not common for multiple documents to be related.
+
+I can use git log to see the history of all of the commits with their titles. I can use git diff to compare the changes, or to actually see the changes that occurred in a specific commit.
+
+It makes you more confident because there is always a way to go back as well as an easier mechanism to find bugs.
+
+For android development.
