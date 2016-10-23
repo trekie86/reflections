@@ -1,3 +1,13 @@
 Git will just setup the repo but nothing will be in it yet.
 
 It gives you a chance to group your commits.
+
+You can use the staging area and git diff --staged to ensure you only have one logic change before you commit.
+
+Anytime I want to keep my official branch clean or test out new features.
+
+It helps you better see the history of changes.
+
+The result is the content of all of the branches put together as a single new commit. It is represented that way because those changes were on their own branch and then combined, they were not checked in on master.
+
+Automatic merges are faster but introduce bugs.
