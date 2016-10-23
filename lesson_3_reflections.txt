@@ -1,0 +1,1 @@
+When you want a more stable, preserved repository. It is also very useful for sharing content between developers.
